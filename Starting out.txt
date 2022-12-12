@@ -1,0 +1,18 @@
+HTML: Content & Layout
+- Hyper Text Markup Language
+- It's the building blocks of websites
+- determines how documents and web pages are displayed
+
+CSS: Style & Looks/Feel
+- Cascading Style Sheets
+- Styles HTML lol
+- goes for color/ font/ responsive features
+
+JAVASCRIPT: Interactive elements
+- makes the website interactive lol 
+- makes websites interactivity run
+
+Conclusion
+HTML = Structure of website
+CSS = Style of website
+JAVASCRIPT = Interactivity of the website
