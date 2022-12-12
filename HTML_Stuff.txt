@@ -1,3 +1,5 @@
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
 -- List of HTML tags to use lol
 
+https://validator.w3.org/nu/#textarea
+-- HTML Checker site, shows you errors and lacks stuff
